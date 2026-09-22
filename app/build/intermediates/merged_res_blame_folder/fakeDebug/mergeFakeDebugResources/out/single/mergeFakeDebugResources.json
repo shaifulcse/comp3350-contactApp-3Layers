@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.contacts.app-fakeDebug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.contacts.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-fakeDebug-31:/layout_activity_contact_form.xml.flat",
+        "source": "com.example.contacts.app-main-35:/layout/activity_contact_form.xml"
+    },
+    {
+        "merged": "com.example.contacts.app-fakeDebug-31:/layout_activity_contact_list.xml.flat",
+        "source": "com.example.contacts.app-main-35:/layout/activity_contact_list.xml"
+    }
+]
